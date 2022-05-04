@@ -7,16 +7,16 @@ This application will use an Express.js back end and will save and retrieve note
 Npm packages of Node Js and Express Js are used, as well as Local host as an API.
 
 # Table of Contents
-Installation
-Usage
-Screenshot
-Video
-License
-Features
-Credits
-Tests
-Questions
-Copyright
+* Installation
+* Usage
+* Screenshot
+* Video
+* License
+* Features
+* Credits
+* Tests
+* Questions
+* Copyright
 
 
 # Installation

@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/hergemony/thenotetaker/issues"
   },
-  "homepage": "https://github.com/hergemony/thenotetaker#readme"
+  "homepage": "https://github.com/hergemony/thenotetaker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^17.7.2"
+  }
 }
