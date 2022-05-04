@@ -1,8 +1,8 @@
-# thenotetaker
+THE NOTETAKER
 
 # Description
 An application that can be used to write, save and delete notes.
-This application will use an Express.js back end and will save and retrieve note data from a JSON file. The front (given) and back end are created and the two connected. The entire application is then deployed to Heroku. 
+This application will use an Express.js back end and will save and retrieve note data from a JSON file. The front end and back end are created and the two connected. The entire application is then deployed to Heroku. 
 
 Npm packages of Node Js and Express Js are used, as well as Local host as an API.
 
@@ -24,7 +24,7 @@ Copyright
 
 # Usage
 To use application, click on the Github Deployed Link:
-https://hergemony.github.io/teamprofilegenerator/
+https://hergemony.github.io/thenotetaker/
 
 # Screenshot
 alt text
@@ -58,8 +58,6 @@ https://stackoverflow.com
 https://w3schools.com 
 
 https://github.com/sam-ngu 
-
-https://github.com/ChristopherPonzio 
 
 https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
 
