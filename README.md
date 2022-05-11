@@ -14,7 +14,6 @@ Npm packages of Node Js and Express Js are used, as well as Local host as an API
 * License
 * Features
 * Credits
-* Tests
 * Questions
 * Copyright
 
@@ -60,9 +59,6 @@ https://w3schools.com
 https://github.com/sam-ngu 
 
 https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
-
-# Tests
-
 
 # Questions
 Any questions please email hergemony@gmail.com
