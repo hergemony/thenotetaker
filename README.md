@@ -21,6 +21,7 @@ Npm packages of Node Js and Express Js are used, as well as Local host as an API
 - Install Express by entering 'npm i express' in the terminal.
 - Type in 'npm start'. The following should appear:
 > thenotetake@1.0.0 start
+
 > node server.js
 - To run app, click on the local host http address => App is running on http://localhost:3001
 
@@ -42,10 +43,7 @@ More notes on Heroku use of app...
 
 
 # Video
-CLICK TO VIEW WALKTHROUGH VIDEO
-
-[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/)](https://youtu.be/)
-
+[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/N-WRRagK13M)
 
 # Features
 - An Index JS document
