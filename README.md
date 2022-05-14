@@ -43,11 +43,10 @@ More notes on Heroku use of app...
 
 
 # Video
-[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/N-WRRagK13M)
+[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/vi/M7lc1UVf-VE/0.jpg)](https://youtu.be/N-WRRagK13M)
 
-https://i9.ytimg.com/vi/N-WRRagK13M/mq2.jpg?sqp=CPT4_ZMG&rs=AOn4CLAZ8JV3S55VwyTwo0V5NpCYcWqvRg&retry=3
+[![CLICK TO VIEW WALKTHROUGH VIDEO](https://www.youtube.com/embed/N-WRRagK13M)](https://youtu.be/N-WRRagK13M)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N-WRRagK13M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Features
 - An Index JS document
