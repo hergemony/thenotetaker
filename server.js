@@ -1,5 +1,5 @@
 // to develop using Express js and create the backend with server.js
-
+// this must NOT be in the public file as it is backend
 const express = require('express');
 const webrouter = require('./routing/web');
 const apifile = require('./routing/api');

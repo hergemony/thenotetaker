@@ -19,7 +19,9 @@ Npm packages of Node Js and Express Js are used, as well as Local host as an API
 
 
 # Installation
+- Install Express by entering 'npm i express' in the terminal.
 
+- After running 'npm install', open up the 'routing' directory and run the command 'node server.js' to connect to the server.
 
 # Usage
 To use application, click on the Github Deployed Link:
