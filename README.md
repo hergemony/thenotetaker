@@ -8,10 +8,8 @@ Npm packages of Node Js and Express Js are used, as well as Local host as an API
 
 # Table of Contents
 * Installation
-* Usage
 * Screenshot
 * Video
-* License
 * Features
 * Credits
 * Questions
@@ -19,24 +17,35 @@ Npm packages of Node Js and Express Js are used, as well as Local host as an API
 
 
 # Installation
+- Install Node by entering 'npm i node' in the terminal.
 - Install Express by entering 'npm i express' in the terminal.
+- Type in 'npm start'. The following should appear:
+> thenotetake@1.0.0 start
+> node server.js
+- To run app, click on the local host http address => App is running on http://localhost:3001
 
-- After running 'npm install', open up the 'routing' directory and run the command 'node server.js' to connect to the server.
+- HEROKU - To run Heroku deployment. Create Procfile:
 
-# Usage
-To use application, click on the Github Deployed Link:
-https://hergemony.github.io/thenotetaker/
+touch Procfile
+
+Then enter the following into the Procfile:
+
+web: npm run start 
+
+More notes on Heroku use of app...
 
 # Screenshot
-alt text
+![alt text](https://github.com/hergemony/thenotetaker/blob/main/image/Screen%20Shot%202022-05-14%20at%204.44.46%20pm.png?raw=true)
 
-alt text
+
+![alt text](https://github.com/hergemony/thenotetaker/blob/main/image/Screen%20Shot%202022-05-14%20at%204.51.07%20pm.png?raw=true)
+
 
 # Video
 CLICK TO VIEW WALKTHROUGH VIDEO
 
-# License
-MIT
+[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/)](https://youtu.be/)
+
 
 # Features
 - An Index JS document
