@@ -33,7 +33,9 @@ Then enter the following into the Procfile:
 
 web: npm run start 
 
-More notes on Heroku use of app...
+HEROKU DEPLOYMENT LINK:
+https://young-inlet-74323.herokuapp.com/
+
 
 # Screenshot
 ![alt text](https://github.com/hergemony/thenotetaker/blob/main/image/Screen%20Shot%202022-05-14%20at%204.44.46%20pm.png?raw=true)
